@@ -1,0 +1,225 @@
+{
+    "artists": [
+        {
+            "name": "Taylor Swift",
+            "genre": "Pop"
+        },
+        {
+            "name": "Ed Sheeran",
+            "genre": "Pop"
+        },
+        {
+            "name": "Queen",
+            "genre": "Rock"
+        },
+        {
+            "name": "The Beatles",
+            "genre": "Rock"
+        },
+        {
+            "name": "Beyoncé",
+            "genre": "R&B"
+        }
+    ],
+    "albums": [
+        {
+            "title": "1989",
+            "releaseYear": 2014,
+            "artist": "5f6a2c98479c17195f536a29"
+        },
+        {
+            "title": "Fearless",
+            "releaseYear": 2008,
+            "artist": "5f6a2c98479c17195f536a2a"
+        },
+        {
+            "title": "÷ (Divide)",
+            "releaseYear": 2017,
+            "artist": "5f6a2c98479c17195f536a2b"
+        },
+        {
+            "title": "x (Multiply)",
+            "releaseYear": 2014,
+            "artist": "5f6a2c98479c17195f536a2c"
+        },
+        {
+            "title": "A Night at the Opera",
+            "releaseYear": 1975,
+            "artist": "5f6a2c98479c17195f536a2d"
+        },
+        {
+            "title": "The Game",
+            "releaseYear": 1980,
+            "artist": "5f6a2c98479c17195f536a2e"
+        },
+        {
+            "title": "Abbey Road",
+            "releaseYear": 1969,
+            "artist": "5f6a2c98479c17195f536a2f"
+        },
+        {
+            "title": "The White Album",
+            "releaseYear": 1968,
+            "artist": "5f6a2c98479c17195f536a30"
+        },
+        {
+            "title": "Dangerously in Love",
+            "releaseYear": 2003,
+            "artist": "5f6a2c98479c17195f536a31"
+        },
+        {
+            "title": "Lemonade",
+            "releaseYear": 2016,
+            "artist": "5f6a2c98479c17195f536a32"
+        }
+    ],
+    "songs": [
+        {
+            "title": "Blank Space",
+            "duration": 231,
+            "album": "5f6a2c98479c17195f536a29"
+        },
+        {
+            "title": "Love Story",
+            "duration": 235,
+            "album": "5f6a2c98479c17195f536a2a"
+        },
+        {
+            "title": "Shake It Off",
+            "duration": 219,
+            "album": "5f6a2c98479c17195f536a29"
+        },
+        {
+            "title": "Bohemian Rhapsody",
+            "duration": 354,
+            "album": "5f6a2c98479c17195f536a2b"
+        },
+        {
+            "title": "Castle on the Hill",
+            "duration": 261,
+            "album": "5f6a2c98479c17195f536a2c"
+        },
+        {
+            "title": "Another One Bites the Dust",
+            "duration": 216,
+            "album": "5f6a2c98479c17195f536a2d"
+        },
+        {
+            "title": "I Want to Break Free",
+            "duration": 247,
+            "album": "5f6a2c98479c17195f536a2e"
+        },
+        {
+            "title": "Come Together",
+            "duration": 248,
+            "album": "5f6a2c98479c17195f536a2f"
+        },
+        {
+            "title": "Something",
+            "duration": 181,
+            "album": "5f6a2c98479c17195f536a30"
+        },
+        {
+            "title": "Single Ladies (Put a Ring on It)",
+            "duration": 204,
+            "album": "5f6a2c98479c17195f536a31"
+        },
+        {
+            "title": "Halo",
+            "duration": 236,
+            "album": "5f6a2c98479c17195f536a32"
+        },
+        {
+            "title": "We Are Never Ever Getting Back Together",
+            "duration": 193,
+            "album": "5f6a2c98479c17195f536a29"
+        },
+        {
+            "title": "You Belong with Me",
+            "duration": 231,
+            "album": "5f6a2c98479c17195f536a2a"
+        },
+        {
+            "title": "Style",
+            "duration": 221,
+            "album": "5f6a2c98479c17195f536a29"
+        },
+        {
+            "title": "Galway Girl",
+            "duration": 170,
+            "album": "5f6a2c98479c17195f536a2b"
+        },
+        {
+            "title": "Perfect",
+            "duration": 263,
+            "album": "5f6a2c98479c17195f536a2c"
+        },
+        {
+            "title": "Don't Stop Me Now",
+            "duration": 209,
+            "album": "5f6a2c98479c17195f536a2d"
+        },
+        {
+            "title": "Crazy Little Thing Called Love",
+            "duration": 182,
+            "album": "5f6a2c98479c17195f536a2e"
+        },
+        {
+            "title": "Here Comes the Sun",
+            "duration": 189,
+            "album": "5f6a2c98479c17195f536a2f"
+        },
+        {
+            "title": "While My Guitar Gently Weeps",
+            "duration": 280,
+            "album": "5f6a2c98479c17195f536a30"
+        }
+    ],
+    "playlists": [
+        {
+            "name": "My Favorite Hits",
+            "songs": [
+                "5f6a2c98479c17195f536a29",
+                "5f6a2c98479c17195f536a2a",
+                "5f6a2c98479c17195f536a2b",
+                "5f6a2c98479c17195f536a2c",
+                "5f6a2c98479c17195f536a2d",
+                "5f6a2c98479c17195f536a2e",
+                "5f6a2c98479c17195f536a2f",
+                "5f6a2c98479c17195f536a30",
+                "5f6a2c98479c17195f536a31",
+                "5f6a2c98479c17195f536a32"
+            ]
+        },
+        {
+            "name": "Chill Vibes",
+            "songs": [
+                "5f6a2c98479c17195f536a29",
+                "5f6a2c98479c17195f536a2a",
+                "5f6a2c98479c17195f536a2b",
+                "5f6a2c98479c17195f536a2c",
+                "5f6a2c98479c17195f536a2d",
+                "5f6a2c98479c17195f536a2e",
+                "5f6a2c98479c17195f536a2f",
+                "5f6a2c98479c17195f536a30",
+                "5f6a2c98479c17195f536a31",
+                "5f6a2c98479c17195f536a32"
+            ]
+        },
+        {
+            "name": "Throwback Classics",
+            "songs": [
+                "5f6a2c98479c17195f536a29",
+                "5f6a2c98479c17195f536a2a",
+                "5f6a2c98479c17195f536a2b",
+                "5f6a2c98479c17195f536a2c",
+                "5f6a2c98479c17195f536a2d",
+                "5f6a2c98479c17195f536a2e",
+                "5f6a2c98479c17195f536a2f",
+                "5f6a2c98479c17195f536a30",
+                "5f6a2c98479c17195f536a31",
+                "5f6a2c98479c17195f536a32"
+            ]
+        }
+    ]
+}

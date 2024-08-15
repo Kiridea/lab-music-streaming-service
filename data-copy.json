@@ -1,0 +1,37 @@
+{
+    "artists": [
+        {
+            "name": "Beyoncé",
+            "genre": "R&B"
+        }
+    ],
+    "albums": [
+        {
+            "title": "Dangerously in Love",
+            "releaseYear": 2003,
+            "artist": "5f6a2c98479c17195f536a31"
+        }
+    ],
+    "songs": [
+        {
+            "title": "Single Ladies (Put a Ring on It)",
+            "duration": 204,
+            "album": "5f6a2c98479c17195f536a31"
+        },
+        {
+            "title": "Halo",
+            "duration": 236,
+            "album": "5f6a2c98479c17195f536a32"
+        }
+    ],
+    "playlists": [
+        {
+            "name": "My Favorite Hits",
+            "songs": [
+                "5f6a2c98479c17195f536a29",
+                "5f6a2c98479c17195f536a2a"
+            ]
+        }
+
+    ]
+}
